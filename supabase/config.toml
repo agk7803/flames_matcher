@@ -1,0 +1,4 @@
+project_id = "leiohnycdwbnlcnisvsm"
+
+[functions.calculate-match]
+verify_jwt = false
